@@ -1,6 +1,6 @@
 # JavaScript DSA Journey
 
-Hi
+Hi developers
 This repository documents my step-by-step journey of learning  
 **Data Structures & Algorithms** using **JavaScript**.
 
